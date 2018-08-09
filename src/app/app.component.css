@@ -1,0 +1,84 @@
+.col1{
+  width: 6cm;
+}
+.col2{
+  width : 2cm
+}
+.col3{
+  width: 4cm;
+}
+.col4{
+  width: 2cm;
+}
+.col5{
+  width: 2cm;
+}
+.col6{
+  width: 4cm;
+}
+.col7{
+  width: 4cm;
+}
+
+th{
+  text-align: center;
+  background-color: burlywood;
+  height: 1cm;
+}
+
+button.edit{
+  background-color: orange;
+  border-radius: 2mm;
+  width: 2cm;
+  color:white;
+}
+
+
+button.delete{
+  background-color: peru;
+  border-radius: 2mm;
+  width: 2cm;
+  color:white;
+}
+
+button.addnew{
+  background-color: green;
+  border-radius: 2mm;
+  color:white;
+  height: 1cm;
+  width: 3cm;
+}
+
+.add-screen{
+  background-color: azure;
+  border: solid;
+  padding: 5mm;
+  margin-bottom: 3mm;
+}
+button.add-to-list{
+  background-color: green;
+  border-radius: 2mm;
+  color:white;
+  height: 1cm;
+  width: 3cm;
+}
+button.show-app{
+  background-color: darkcyan;
+  border-radius: 2mm;
+  width : 4cm;
+  color:white;
+
+}
+
+button.add-app{
+  background-color: burlywood;
+  border-radius: 2mm;
+  width : 4cm;
+  color:white;
+}
+img{
+  width:5cm;
+}
+
+
+
